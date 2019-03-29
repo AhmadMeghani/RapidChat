@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786201779133",
+    "firebase_url": "https://rapidchat-9b894.firebaseio.com",
+    "project_id": "rapidchat-9b894",
+    "storage_bucket": "rapidchat-9b894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786201779133:android:564af7a949a14a6c",
+        "android_client_info": {
+          "package_name": "com.abcx.rapidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786201779133-kshva7k4cr3uha629q0fdutc7v9v3khc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abcx.rapidchat",
+            "certificate_hash": "2af18cf3d4c79bd91311ae02318d0056fc509cd3"
+          }
+        },
+        {
+          "client_id": "786201779133-b87b1n7b61lalvihhqo69cmdo80615j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BN0CcfMCZclWY-Ha7XeXyN0tXRUdjqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786201779133-b87b1n7b61lalvihhqo69cmdo80615j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
